@@ -331,3 +331,33 @@ pwd
 cd /var/lib/jenkins
 ls -al
 clear
+git init
+mkr jenkinsprac
+git init
+mkdir jenkinsprac
+cd jenkinsprac
+git init
+ls -al
+git remote add origin
+git remote add origin https://github.com/kayoladevops/GittyKay.git
+git pull origin master
+ls -al
+git add .
+git commit -m "jenkinsadd"
+touch jejema
+git init
+git add
+git add .
+git status
+git remote add origin https://github.com/kayoladevops/GittyKay.git
+clear
+mkr 21janjenks
+touch jenkin.html
+git add jenkin.html
+git commit -m "sawo"
+git push origin master
+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
+pit push origin master
+clear
+git remote add origin https://github.com/kayoladevops/GittyKay.git
+git push origin master
